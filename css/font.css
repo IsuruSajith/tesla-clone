@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gotham SSM';
+    src: url(/fonts/GothamSSm-Book_Web.woff2) format('woff2'),
+        url(/fonts/GothamSSm-Medium_Web.woff2) format('woff2');
+    /* font-weight: 500; */
+    font-style: normal;
+    font-display: swap;
+}
